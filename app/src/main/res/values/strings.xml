@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjectPsychological</string>
+    <string name="customer">customer</string>
+    <string name="todo">todo</string>
+    <string name="reference_no">referenceNo</string>
+    <string name="mail_address">email</string>
+    <string name="employee">employee</string>
+    <string name="ok">OK</string>
+    <string name="customer_title">Trắc nghiệm\n tâm lý học</string>
+</resources>

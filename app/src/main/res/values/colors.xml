@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#334B7B</color>
+    <color name="colorPrimaryDark">#334B7B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- main screen -->
+    <color name="main_text_select">#EF5353</color>
+    <color name="main_text">#A4A6A8</color>
+    <!-- fragment user-->
+    <color name="bg_user">#334B7B</color>
+</resources>
